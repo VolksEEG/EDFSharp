@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EDFSharp": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
